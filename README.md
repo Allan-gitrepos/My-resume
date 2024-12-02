@@ -63,7 +63,7 @@ Wisdom: A pessimist sees the difficulty in every opportunity; an optimist sees t
 Learned how to dance awesome, fun, relaxed, joyful and expressive dances in a group of active people that includes foreigners.
 Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
 
-**Attendee** of the Nonviolent Communication courses at [nenasilnakomunikace.org](https://nenasilnakomunikace.org/)
+**Attendee** of the Nonviolent Communication courses @ [nenasilnakomunikace.org](https://nenasilnakomunikace.org/)
 
 
 ## 📖 Self-development and other books read
@@ -82,6 +82,20 @@ Reached the Intermediate-Advanced levels in Lindy Hop, basic Balboa.
 
 <iframe style="border: none;width: 100%; min-height: 500px" src="https://www.poptavej.cz/iframe/rating/rating?number=24596464"></iframe>
 <div>
+
+## Some of the finished home projects
+ - Swing basics lessons -- Make people dance - 📅 2023-ongoing effort to teach people Lindy Hop swing dance.
+
+ - Greenhouse irrigation — timed watering of plants.
+A simple yet effective greenhouse automatic irrigation using Parkside automatic valves.
+
+ - Conversion of Makita HR2450 to HR2450FT — Disassembly, amateur refurbishing and conversion of a small hammer drill.
+
+ - Conversion of Narex tool to EBU 15-16. After it got broken I upgraded it with parts of the newer model. Now has a slow start, temp sense and anti-vibration mount.
+ https://photos.app.goo.gl/3PA219qnTfXMUHFC9
+
+ - Tesla BS-252 — renovation of a linear power source that good for low noise applications.
+ Replaced several components including the gauges and potenciometers. This piece of equipment is working back as new. Once I charged a car battery with this power source (:
 
 
 ## 📞 Contact
